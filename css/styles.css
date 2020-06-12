@@ -129,8 +129,11 @@ section {
 
 #nav-list {
   color: white;
-  background-color: blue;
+  background-color: black;
 }
+#nav-list li:hover {
+  background-color: blue;
+}	
 
 hr {
   border-color: white;
