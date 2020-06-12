@@ -51,12 +51,17 @@ body {
 #nav-list a {
     font-weight: bolder;
     color: #282828;
+    text-align: center;
     font-size: 1.2em;
 }
 
 #nav-list a:hover {
     color: #202020;
     background-color: #fce29e;
+}
+
+#nav-list a span {
+    text-size: 1.8em;
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
