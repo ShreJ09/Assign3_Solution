@@ -68,6 +68,9 @@ body {
     border: 1px solid #7d1913;
 }
 
+#collapsable-nav a {
+    font-size: 1.2em;
+}
 
 /** END HEADER */
 
